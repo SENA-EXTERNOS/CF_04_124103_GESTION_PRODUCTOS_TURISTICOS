@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[CF_04_124103_GESTION_PRODUCTOS_TURISTICOS/#/](CF_04_124103_GESTION_PRODUCTOS_TURISTICOS/#/)
+[https://sena-externos.github.io/CF_04_124103_GESTION_PRODUCTOS_TURISTICOS/#/](https://sena-externos.github.io/CF_04_124103_GESTION_PRODUCTOS_TURISTICOS/#/)
 
 #
 
