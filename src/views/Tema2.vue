@@ -75,16 +75,16 @@
           img(src='@/assets/curso/temas/img15.svg', alt='Tipos de Estructura en las empresas')
 
 
-      .tarjeta.color-acento-botones.p-3(x="12%" y="70%" numero="1")
+      .tarjeta.color-acento-botones.p-3(x="12%" y="78%" numero="1")
         .h5.mb-2 Estructura horizontal 
         p Se caracterizan porque existen pocos jefes y se privilegia la interacción entre áreas y procesos. 
-      .tarjeta.color-acento-botones.p-3(x="37.5%" y="70%" numero="2")
+      .tarjeta.color-acento-botones.p-3(x="37.5%" y="78%" numero="2")
         .h5.mb-2 Estructura vertical 
         p Esta es la orientación tradicional de las empresas, donde la línea de mando va de arriba hacia abajo.    
-      .tarjeta.color-acento-botones.p-3(x="62.5%" y="70%" numero="3")
+      .tarjeta.color-acento-botones.p-3(x="62.5%" y="78%" numero="3")
         .h5.mb-2 Estructura circular 
         p En la mitad de la estructura está la máxima autoridad de la empresa y alrededor de él se forman círculos con otros roles de jerarquía.  
-      .tarjeta.color-acento-botones.p-3(x="87.5%" y="70%" numero="4")
+      .tarjeta.color-acento-botones.p-3(x="87.5%" y="78%" numero="4")
         .h5.mb-2 Estructura mixta 
         p Representa una combinación de la estructura vertical a nivel de mando y dentro de cada proceso / área hay una estructura.
 
