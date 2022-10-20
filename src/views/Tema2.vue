@@ -8,7 +8,7 @@
       h1 Análisis situacional
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img2.png', alt='') 
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img2.svg', alt='') 
       .col-lg-6
         .bloque-texto-b.color-secundario.p-4(data-aos="flip-down")
           p(data-aos="fade-down").px-5.up Hanel, J. (2004), define el análisis situacional como:
@@ -55,20 +55,14 @@
     Separador 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.2 Microentorno 
-
-    .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
-      p(data-aos="fade-down").mb-0 El Microentorno es aquel componente del análisis situacional que diagnostica el funcionamiento de la empresa a nivel interno, revisando en detalle, cómo está el desempeño de los diferentes procesos/ áreas que componen la empresa.
-
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-6
+        .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
+          p(data-aos="fade-down").mb-0 El Microentorno es aquel componente del análisis situacional que diagnostica el funcionamiento de la empresa a nivel interno, revisando en detalle, cómo está el desempeño de los diferentes procesos/ áreas que componen la empresa.      
         p(data-aos="fade-down") Por ahora, se abordará la organización empresarial, como el componente fundamental para la división del trabajo en una empresa, ya que, si bien cada área o proceso aporta de alguna manera al logro de los objetivos organizacionales, es realmente aunando esfuerzos que se logran grandes resultados; de acuerdo con esto, según la orientación de los propietarios o de sus Juntas Directivas, las empresas pueden tener alguna las estructuras que se referencian en la siguiente figura. 
-        .cajon.color-acento-botones.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Una vez, identificado el tipo de estructura con el que funciona la empresa, se sugiere realizar dos ejercicios: primero, explorar a partir de fuentes secundarias que tipo de estructuras se tienen en las empresas que se encuentran en la misma actividad económica de la empresa, con eso se puede determinar a nivel general cuál es la forma en la cual están operando y tomando las decisiones; lo segundo, es realizar un diagnóstico de cómo se encuentran las principales áreas funcionales que la componen.              
+   
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img14.png', alt='')
-
-    p(data-aos="fade-down").mb-5 A continuación, en el video se describen los aspectos que caracterizan las áreas funcionales de una empresa. Lo invitamos a verlo.    
-
     ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-right")
       template(v-slot:imagen)
         figure
@@ -88,6 +82,14 @@
         .h5.mb-2 Estructura mixta 
         p Representa una combinación de la estructura vertical a nivel de mando y dentro de cada proceso / área hay una estructura.
 
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10
+        .cajon.color-acento-botones.p-4(data-aos="flip-down")
+          p(data-aos="fade-down").mb-0 Una vez, identificado el tipo de estructura con el que funciona la empresa, se sugiere realizar dos ejercicios: primero, explorar a partir de fuentes secundarias que tipo de estructuras se tienen en las empresas que se encuentran en la misma actividad económica de la empresa, con eso se puede determinar a nivel general cuál es la forma en la cual están operando y tomando las decisiones; lo segundo, es realizar un diagnóstico de cómo se encuentran las principales áreas funcionales que la componen.              
+
+
+    p(data-aos="fade-down").mb-5 A continuación, en el video se describen los aspectos que caracterizan las áreas funcionales de una empresa. Lo invitamos a verlo. 
+
     .list.mb-3(data-aos="fade-down")
       .list__item
         .list__item__icon
@@ -101,7 +103,7 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-down") Para realizar el diagnóstico del microentorno, se requiere aplicar un instrumento que permita evaluar cada área, con el fin de obtener una “radiografía” de cuáles son los aspectos que resaltan de cada una y aquellos donde se hace necesario incorporar acciones correctivas y/o de mejora. De acuerdo con lo anterior, el SENA ha desarrollado una herramienta que a través de la aplicación de una batería se puede tener un diagnóstico del estado de las áreas funcionales, lo invitamos a consultar el Apéndice donde se y aplicar la batería (recuerde al abrirlo habilitar las macros).  
+    p(data-aos="fade-down") Para realizar el diagnóstico del microentorno, se requiere aplicar un instrumento que permita evaluar cada área, con el fin de obtener una “radiografía” de cuáles son los aspectos que resaltan de cada una y aquellos donde se hace necesario incorporar acciones correctivas y/o de mejora. De acuerdo con lo anterior, el SENA ha desarrollado una herramienta que a través de la aplicación de una batería se puede tener un diagnóstico del estado de las áreas funcionales, lo invitamos a consultar el Apéndice donde se aplica la batería (recuerde al abrirlo habilitar las macros).  
 
     p(data-aos="fade-down").mb-5 Apéndice. Batería para evaluación del Microentorno
 
@@ -111,7 +113,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-xls.svg")
           .anexo__texto
-            p.mb-0 #[b Anexo 3.] Macroentorno 
+            p.mb-0 #[b Anexo 3.] Herramienta diagnostica del microentorno 
 
     .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(data-aos="flip-down") 
       .row.m-0.align-items-center.justify-content-between

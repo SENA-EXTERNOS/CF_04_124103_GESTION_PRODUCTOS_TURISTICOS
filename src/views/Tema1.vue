@@ -99,7 +99,7 @@
               p Es aquella que es utilizada por un grupo específico de personas, usualmente pertenecientes a una misma empresa. Se caracteriza porque suele ser de interés solo por parte de un determinado conjunto de personas.
 
     .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
-      p(data-aos="fade-down").mb-0 La inadecuada aplicación de los tipos de información, puede llevar a las empresas a la desinformación (a nivel digital conocida como las famosas “fake news” –noticias falsas-), esto se convierte hoy en día en un riesgo latente para las organizaciones quienes son generadoras y consumidoras constantes de información, esto ha llevado a muchas empresas a implementar políticas, buenas prácticas de sistemas de gestión e incluso procesos de gestión documental, con el fin de propender para que la información que se origina en la empresa sea producida, usada y custodiada (guardada) bajo parámetros de calidad y confiabilidad. 
+      p(data-aos="fade-down").mb-0 La inadecuada aplicación de los tipos de información, puede llevar a las empresas a la desinformación (a nivel digital conocida como las famosas “#[i fake news” –noticias falsas-]), esto se convierte hoy en día en un riesgo latente para las organizaciones quienes son generadoras y consumidoras constantes de información, esto ha llevado a muchas empresas a implementar políticas, buenas prácticas de sistemas de gestión e incluso procesos de gestión documental, con el fin de propender para que la información que se origina en la empresa sea producida, usada y custodiada (guardada) bajo parámetros de calidad y confiabilidad. 
 
     Separador 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")

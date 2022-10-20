@@ -161,17 +161,18 @@ export default {
       referencia:
         'Haro, E., Jurado, R., Pérez, L., Revelo, R., Rodríguez, P. y Mata, A. (2017). <i>Fundamentos de Economía</i>. Colección Empresarial.',
       tipo: 'Libro',
-      link: 'Libro',
+      link:
+        'http://www.dspace.uce.edu.ec/bitstream/25000/20998/1/Fundamentos%20de%20econom%C3%ADa.pdf',
     },
     {
-      tema: '4. Plaza <br> 5. Promoción',
+      tema: '4. Plaza <br><br> 5. Promoción',
       referencia:
         'Federación Nacional de Comerciantes y Servicio Nacional de Aprendizaje. (1995).  <i>Nociones y estrategias empresariales de mercadeo</i>. ',
       tipo: 'Folleto',
       link: 'https://hdl.handle.net/11404/4515',
     },
     {
-      tema: 'Segmentación',
+      tema: '6. Segmentación',
       referencia:
         'Armstrong, G. y Kotler, P. (2013). Fundamentos de marketing. Pearson Educación. Decimoprimera edición.',
       tipo: 'Libro',

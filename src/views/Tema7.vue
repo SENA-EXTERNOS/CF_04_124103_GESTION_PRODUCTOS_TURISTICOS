@@ -11,7 +11,7 @@
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 La competencia es tan natural como la existencia del comercio y ahora con los entornos digitales, las empresas están inmersas en un escenario de competidores no imaginado.
-        p(data-aos="fade-down") Antes de entrar en detalle sobre la competencia, es importante clarificar el concepto, la competencia son las empresas que ofrecen bienes y servicios que satisfacen la misma necesidad que está atendiendo la empresa. Por ejemplo, si usted tiene un hotel, su competencia está constituida por todos los hoteles que están ubicados en una zona geográfica cercana a la suya como aquellas empresas que ofrecen otro tipo de alojamiento, tales como: camping, glamping y hosterías entre otros. 
+        p(data-aos="fade-down") Antes de entrar en detalle sobre la competencia, es importante clarificar el concepto, la competencia son las empresas que ofrecen bienes y servicios que satisfacen la misma necesidad que está atendiendo la empresa. Por ejemplo, si usted tiene un hotel, su competencia está constituida por todos los hoteles que están ubicados en una zona geográfica cercana a la suya como aquellas empresas que ofrecen otro tipo de alojamiento, tales como: #[i camping, glamping] y hosterías entre otros. 
         p(data-aos="fade-down") Para comprender mejor la dinámica de la competencia, es preciso entenderla desde dos perspectivas, la económica y la de mercadeo, en la siguiente figura se evidencia esta clasificación:         
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img37.svg', alt='')

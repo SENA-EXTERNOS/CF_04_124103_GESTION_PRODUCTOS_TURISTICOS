@@ -108,8 +108,8 @@
         .row.justify-content-center.align-items-stretch.mb-4          
           .col-lg-4
             h5(data-aos="fade-down").mb-0.p-2.bg1.text-center Segmento           
-            p(data-aos="fade-down").mb-0.p-2.bg1-sup.text-center.mp Personas naturales residentes en Colombia          
-            p(data-aos="fade-down").mb-0.p-2.bg1-sup.bg1-rad.text-center.mp Turistas que visitan Colombia             
+            h5(data-aos="fade-down").mb-0.p-2.bg1-sup.text-center.mp Personas naturales residentes en Colombia          
+            h5(data-aos="fade-down").mb-0.p-2.bg1-sup.bg1-rad.text-center.mp Turistas que visitan Colombia             
           .col-lg-8
             h5(data-aos="fade-down").mb-0.p-2.bg2.text-center Aplicación de las variables de segmentación         
             p(data-aos="fade-down").mb-0.p-2.bg2-sup Personas mayores de edad, de cualquier sexo u orientación sexual, que tengan la capacidad adquisitiva para comprar planes turísticos o tenga forma de financiarlo, que les guste viajar y conocer, con lugar de residencia en cualquier departamento de Colombia.
