@@ -101,7 +101,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/-ersu-KuAQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-down") Para realizar el diagnóstico del microentorno, se requiere aplicar un instrumento que permita evaluar cada área, con el fin de obtener una “radiografía” de cuáles son los aspectos que resaltan de cada una y aquellos donde se hace necesario incorporar acciones correctivas y/o de mejora. De acuerdo con lo anterior, el SENA ha desarrollado una herramienta que a través de la aplicación de una batería se puede tener un diagnóstico del estado de las áreas funcionales, lo invitamos a consultar el Apéndice donde se aplica la batería (recuerde al abrirlo habilitar las macros).  
 
