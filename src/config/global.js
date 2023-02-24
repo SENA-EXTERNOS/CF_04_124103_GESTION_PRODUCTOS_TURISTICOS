@@ -35,20 +35,6 @@ export default {
         numero: '1',
         titulo: 'Información',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Fuentes de información',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Protección de datos en Colombia',
-            hash: 't_1_2',
-          },
-        ],
       },
 
       {
@@ -57,20 +43,6 @@ export default {
         numero: '2',
         titulo: 'Análisis situacional',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Macroentorno',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Microentorno',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',

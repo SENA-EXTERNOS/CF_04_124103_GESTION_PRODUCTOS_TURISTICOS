@@ -10,12 +10,16 @@
       .col-lg-5
         .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 En el contexto empresarial la información hoy en día es un tema de alto interés, ya que las decisiones se toman con base en ella. Sin embargo, no es posible mencionar este concepto sin antes conocer un poco sobre los datos que son aquellos que posibilitan la existencia de la información.
-        p(data-aos="fade-down").mb-0 Los datos son números, cifras incluso palabras que están almacenados en algún repositorio. En términos técnicos, es la representación de una variable cuantitativa (números) o cualitativa (cualidades o características); teniendo presente lo referenciado, se puede afirmar que la información es un conjunto de datos con contexto o significado. A modo de ejemplo, se tiene los siguientes casos:
+        p(data-aos="fade-down").mb-0 Los datos son números, cifras, incluso palabras que están almacenados en repositorios. En términos técnicos, es la representación de una variable cuantitativa (números) o cualitativa (cualidades o características). Teniendo presente lo referenciado, se puede afirmar que la información es un conjunto de datos con contexto o significado. A modo de ejemplo, se tienen los siguientes casos:
       .col-lg-7
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img2.png', alt='') 
 
     .row.justify-content-center.align-items-stretch.mb-3
-      .col-lg-10.bg3.p-3(data-aos="flip-down")    
+      .col-lg-10.bg3.p-3(data-aos="flip-down")  
+        .titulo-sexto.color-acento-contenido(data-aos="fade-left") 
+          h5 Tabla 1
+          br
+          span.fst-italic Ejemplos con la relación entre dato e información         
         .row.justify-content-center.align-items-stretch          
           .col-lg-4
             h5(data-aos="fade-down").mb-0.p-2.bg1.text-center Dato           
@@ -30,19 +34,19 @@
             p(data-aos="fade-down").mb-0.p-2.bg2-sup En el mes se vendieron 12 excursiones.
             p(data-aos="fade-down").mb-0.p-2.bg2-sup.bg1-rad María Valentina es la asesora de viajes que más ventas realiza.
         p(data-aos="fade-down").text-end.mt-3.mb-0 Ejemplos con la relación entre dato e información
-
+        figcaption.mb-0 #[b Nota.] La tabla anterior ejemplifica a partir de cuatro datos de entrada cómo estos se convierten en información al darles un contexto.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.bgcap.p-3(data-aos="flip-down")
         p(data-aos="fade-down").mb-0 #[b Nota.] La tabla anterior ejemplifica a partir de cuatro datos de entrada cómo estos se convierten en información al darles un contexto.
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        p(data-aos="fade-down") En la tabla anterior, se evidencia la relación entre ambos conceptos. Por una parte, se cuentan con cuatro datos, tres de ellos cuantitativos ($200.000, 16 y 12) y uno de ellos cualitativo (Ventas), en este sentido el usuario de la información solo tiene esa visual sin mayor contexto, sin embargo, por otra parte, cuando se tomaron estos datos y se les dio un alcance o se asociaron a una situación específica se identifica la importancia de cada dato y se pasa ahora a mencionar información. 
-        p(data-aos="fade-down") En el contexto del Turismo la información es vital, dado que es lo que motiva la interacción y el interés entre el emisor (quien emite el mensaje comunicacional, generalmente, es el vendedor) y el receptor (quien recibe la información, usualmente el cliente).             
+        p(data-aos="fade-down") En la tabla anterior, se evidencia la relación entre ambos conceptos. Por una parte, se cuentan con cuatro datos, tres de ellos cuantitativos ($200.000, 16 y 12) y uno de ellos cualitativo (ventas); en este sentido, el usuario, de la información solo tiene esos datos sueltos sin mayor contexto, sin embargo, cuando se tomaron estos datos y se les dio un argumento o se asociaron a una situación específica, se identifica la importancia de cada uno y se pasa ahora a mencionar información.
+        p(data-aos="fade-down") En el contexto del turismo, la información es vital, dado que es lo que motiva la interacción y el interés entre el emisor (quien emite el mensaje comunicacional, generalmente, es el vendedor) y el receptor (quien recibe la información, usualmente el cliente).           
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')      
       .col-lg-4.cajon.color-acento-contenido.p-4(data-aos="flip-down")
-        p(data-aos="fade-down").mb-0 La información como tal, debe contar con unas características mínimas que se deben garantizar: debe tener una finalidad (enterar, validar, preguntar o responder); a nivel empresarial debe propiciar la generación de conocimiento para la toma de decisiones; debe ser confiable, es decir, debe provenir de una fuente que garantice la fidelidad de lo que se está informando; debe ser precisa, lo que significa que se deben entregar los detalles necesarios para comprender el contenido; debe estar disponible (por supuesto, bajo los criterios de seguridad definidos por la organización), con el fin de permitir su uso por parte de las personas interesadas. 
+        p(data-aos="fade-down").mb-0 La información, debe contar con unas características mínimas: debe tener una finalidad (enterar, validar, preguntar o responder); a nivel empresarial debe propiciar la generación de conocimiento para la toma de decisiones; debe ser confiable, es decir, debe provenir de una fuente que garantice la fidelidad de lo que se está informando; además, precisa, esto significa, que entrega los detalles necesarios para comprender el contenido; debe estar disponible (por supuesto, bajo los criterios de seguridad definidos por la organización), con el fin de permitir su uso por parte de las personas interesadas.
 
     .list.mb-3(data-aos="fade-down")
       .list__item
@@ -51,9 +55,13 @@
       .list__txt
         p.mb-0.tv #[b Tipos de información]
 
-    p(data-aos="fade-down").mb-5 Existen diferentes tipos de información, los cuales se pueden clasificar desde diferentes perspectivas, según su: fuente, el objeto comunicacional, criterios de programación en sistemas, entre otros; sin embargo, la clasificación más referenciada a nivel empresarial es la asociada con la relación que existe entre quien la produce/ pública (emisor) y los potenciales usuarios requirentes (receptores), esta clasificación se muestra en la siguiente figura:
+    p(data-aos="fade-down").mb-5 Existen diferentes tipos de información, los cuales se pueden clasificar desde diferentes perspectivas, según su fuente, objeto comunicacional, criterios de programación en sistemas, entre otros. Sin embargo, la clasificación más referenciada a nivel empresarial, es la asociada con la relación que existe entre quien la produce o pública (emisor) y los potenciales usuarios requirentes (receptores), esta clasificación se muestra en la siguiente figura:
     .row.justify-content-center.mb-5
       .col-lg-9.position-relative
+        .titulo-sexto.color-acento-contenido(data-aos="fade-left") 
+          h5 Figura 1
+          br
+          span.fst-italic Tipos de información según la relación entre emisor y receptor       
         .avatar
           figure
             img.img-w(src="@/assets/curso/temas/img4.svg", alt="alt").img50
@@ -98,42 +106,71 @@
               h5 Información interna
               p Es aquella que es utilizada por un grupo específico de personas, usualmente pertenecientes a una misma empresa. Se caracteriza porque suele ser de interés solo por parte de un determinado conjunto de personas.
 
-    .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
-      p(data-aos="fade-down").mb-0 La inadecuada aplicación de los tipos de información, puede llevar a las empresas a la desinformación (a nivel digital conocida como las famosas “#[i fake news” –noticias falsas-]), esto se convierte hoy en día en un riesgo latente para las organizaciones quienes son generadoras y consumidoras constantes de información, esto ha llevado a muchas empresas a implementar políticas, buenas prácticas de sistemas de gestión e incluso procesos de gestión documental, con el fin de propender para que la información que se origina en la empresa sea producida, usada y custodiada (guardada) bajo parámetros de calidad y confiabilidad. 
+    .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
+      p(data-aos="fade-down").mb-0 La inadecuada aplicación de los tipos de información, puede llevar a las empresas a la desinformación (a nivel digital conocida como las famosas “#[i fake news]” –noticias falsas-), esto se convierte hoy en día, en un riesgo latente para las organizaciones, quienes son generadoras y consumidoras constantes de información, esto ha llevado a muchas empresas a implementar políticas, buenas prácticas de sistemas de gestión e incluso procesos de gestión documental, con el fin de garantizar que la información que se origina en la empresa sea producida, usada y custodiada (guardada) bajo parámetros de calidad y confiabilidad. 
 
-    Separador 
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.1  Fuentes de información 
+    .list.mb-3(data-aos="fade-down")
+      .list__item
+        .list__item__icon
+          img(src='@/assets/curso/temas/v.svg', alt='')
+      .list__txt
+        p.mb-0.tv #[b Fuentes de información]
+
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img10.png', alt='')            
       .col-lg-5
-        p(data-aos="fade-down") Dado que la legislación es propia de cada país, ya que cada nación establece su marco de actuación legal para el tema; el manejo de los datos en Colombia se regula mediante el Derecho de Habeas Data, el cual posibilita a las personas que puedan actualizar, autorizar, conocer, y rectificar toda la información que tengan las distintas entidades y bases de datos del territorio nacional. Nació como parte importante de los artículos 15 y 20 de la Constitución Política y posteriormente, fue desarrollado a través de leyes y decretos complementarios.
-        p(data-aos="fade-down") Para ampliar la información, lo invitamos a ver el documento anexo 1. Fuentes de información 
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_1_Fuentes_de_informacion.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p #[b Anexo 1.] Fuentes de información 
+        p(data-aos="fade-down") La legislación es propia de cada país, la nación establece su marco de actuación legal para el tema; el manejo de los datos en Colombia se regula mediante el derecho de hábeas data, el cual posibilita a las personas que puedan actualizar, autorizar, conocer, y rectificar toda la información que tengan las distintas entidades y bases de datos del territorio nacional. Nació como parte importante de los artículos 15 y 20 de la Constitución Política y posteriormente, fue desarrollado a través de leyes y decretos complementarios. 
 
-    Separador 
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.2  Protección de datos en Colombia 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")           
+      .col-lg-10
+        .tarjeta.color-primario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/1.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0.text-white
+                  h4 Fuentes de información
+                  p.mb-0 Para ampliar la información, lo invitamos a ver el documento anexo 1.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Fuentes_de_informacion.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+                    
+    .list.mb-3(data-aos="fade-down")
+      .list__item
+        .list__item__icon
+          img(src='@/assets/curso/temas/v.svg', alt='')
+      .list__txt
+        p.mb-0.tv #[b Protección de datos en Colombia] 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-5
         .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Las fuentes de información hacen referencia a la forma como se obtiene la información de interés de una empresa, con la finalidad de que la información pueda ser consultada y accesible para los diferentes usuarios.
-        p(data-aos="fade-down") Técnicamente, se dice que las fuentes de información existen por la necesidad que existe de satisfacer la “demanda de información”. Tradicionalmente, las fuentes de información se han dividido en: primarias, secundarias y terciarias.
-        p(data-aos="fade-down").mb-4 Para ampliar la información, lo invitamos a ver el documento Ver anexo 2.  Protección de datos en Colombia 
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_2_Proteccion_de_datos_en_Colombia.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p #[b Anexo 2.] Protección de datos en Colombia          
+        p(data-aos="fade-down") Técnicamente, se dice que las fuentes de información existen por la necesidad de satisfacer la “demanda de información”. Tradicionalmente, las fuentes de información se han dividido en: primarias, secundarias y terciarias.
+
+      
       .col-lg-7
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img11.svg', alt='')      
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img11.svg', alt='')
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")           
+      .col-lg-10
+        .tarjeta.color-primario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/1.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0.text-white
+                  h4 Protección de datos en Colombia
+                  p.mb-0 Para ampliar la información, lo invitamos a ver el documento Ver anexo 2.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/downloads/Anexo_2_Proteccion_de_datos_en_Colombia.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download              
 </template>
 
 <script>
