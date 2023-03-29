@@ -129,14 +129,6 @@ export default {
       link: 'https://www.sic.gov.co/sobre-la-proteccion-de-datos-personales',
     },
     {
-      tema: '3. Economía',
-      referencia:
-        'Haro, E., Jurado, R., Pérez, L., Revelo, R., Rodríguez, P. y Mata, A. (2017). <i>Fundamentos de Economía</i>. Colección Empresarial.',
-      tipo: 'Libro',
-      link:
-        'http://www.dspace.uce.edu.ec/bitstream/25000/20998/1/Fundamentos%20de%20econom%C3%ADa.pdf',
-    },
-    {
       tema: '4. Plaza <br><br> 5. Promoción',
       referencia:
         'Federación Nacional de Comerciantes y Servicio Nacional de Aprendizaje. (1995).  <i>Nociones y estrategias empresariales de mercadeo</i>. ',
