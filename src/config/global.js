@@ -199,7 +199,7 @@ export default {
     {
       referencia:
         'Hanel, J. (2004). <i>Análisis Situacional</i>. Universidad Autónoma Metropolitana. Recuperado 11-08-2022 de:',
-      link: 'https://core.ac.uk/download/pdf/48390913.pdf.',
+      link: 'https://core.ac.uk/download/pdf/48390913.pdf',
     },
     {
       referencia:
