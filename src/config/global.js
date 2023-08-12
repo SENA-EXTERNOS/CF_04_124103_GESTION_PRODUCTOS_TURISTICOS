@@ -129,13 +129,6 @@ export default {
       link: 'https://www.sic.gov.co/sobre-la-proteccion-de-datos-personales',
     },
     {
-      tema: '4. Plaza <br><br> 5. Promoción',
-      referencia:
-        'Federación Nacional de Comerciantes y Servicio Nacional de Aprendizaje. (1995).  <i>Nociones y estrategias empresariales de mercadeo</i>. ',
-      tipo: 'Folleto',
-      link: 'https://hdl.handle.net/11404/4515',
-    },
-    {
       tema: '6. Segmentación',
       referencia:
         'Armstrong, G. y Kotler, P. (2013). Fundamentos de marketing. Pearson Educación. Decimoprimera edición.',

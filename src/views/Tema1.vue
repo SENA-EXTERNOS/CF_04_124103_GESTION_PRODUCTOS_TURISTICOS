@@ -168,7 +168,7 @@
                   h4 Protección de datos en Colombia
                   p.mb-0 Para ampliar la información, lo invitamos a ver el documento Ver anexo 2.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/downloads/Anexo_2_Proteccion_de_datos_en_Colombia.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Proteccion_de_datos_en_Colombia.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download              
 </template>
