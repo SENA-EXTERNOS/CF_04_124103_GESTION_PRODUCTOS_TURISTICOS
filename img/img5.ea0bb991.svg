@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82.494" height="103.7" viewBox="0 0 82.494 103.7">
+  <g id="Capa_2" data-name="Capa 2" transform="translate(2 2)">
+    <g id="Recursos" transform="translate(0 0)">
+      <rect id="Rectángulo_40448" data-name="Rectángulo 40448" width="59.946" height="65.122" rx="7.88" transform="translate(9.629)" fill="#fc4b52" stroke="#12263f" stroke-miterlimit="10" stroke-width="4"/>
+      <rect id="Rectángulo_40449" data-name="Rectángulo 40449" width="31.297" height="4.73" rx="2.365" transform="translate(15.374 14.256)" fill="#12263f"/>
+      <rect id="Rectángulo_40450" data-name="Rectángulo 40450" width="14.222" height="4.73" rx="2.365" transform="translate(50.466 14.256)" fill="#12263f"/>
+      <rect id="Rectángulo_40451" data-name="Rectángulo 40451" width="33.325" height="4.73" rx="2.365" transform="translate(31.877 22.369)" fill="#12263f"/>
+      <rect id="Rectángulo_40452" data-name="Rectángulo 40452" width="33.48" height="4.73" rx="2.365" transform="translate(31.728 6.213)" fill="#12263f"/>
+      <path id="Trazado_158704" data-name="Trazado 158704" d="M83.872,116.575H31.76c-2.344,0-3.58-3.915-4.254-5.256-.255-.511-.725-1.609-1.622-1.609H8.622A1.615,1.615,0,0,0,7,111.319v55.567a1.615,1.615,0,0,0,1.622,1.609H83.872a1.626,1.626,0,0,0,1.147-.471,1.6,1.6,0,0,0,.474-1.138v-48.7a1.6,1.6,0,0,0-.474-1.138A1.626,1.626,0,0,0,83.872,116.575Z" transform="translate(-7 -84.606)" fill="#dff7f9" stroke="#12263f" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Trazado_158705" data-name="Trazado 158705" d="M128.094,199.617v-9.275c0-7.584,5.2-13.732,11.619-13.732h0c6.417,0,11.619,6.148,11.619,13.732v9.275h7.8v-9.072c0-12.678-8.7-22.956-19.424-22.956h0c-10.727,0-19.424,10.278-19.424,22.956v9.072Z" transform="translate(-100.28 -131.14)" fill="#12263f"/>
+      <path id="Trazado_158706" data-name="Trazado 158706" d="M135.208,279.12H91.652a4,4,0,0,0-3.832,4.153v35.245a4,4,0,0,0,3.832,4.153h43.555a4,4,0,0,0,3.83-4.153V283.273A4,4,0,0,0,135.208,279.12Z" transform="translate(-73.98 -222.97)" fill="#feca2e" stroke="#12263f" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Trazado_158707" data-name="Trazado 158707" d="M178.173,322.978v7.643a3.575,3.575,0,1,1-7.151,0v-7.643a7.19,7.19,0,1,1,7.151,0Z" transform="translate(-135.118 -243.948)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>
