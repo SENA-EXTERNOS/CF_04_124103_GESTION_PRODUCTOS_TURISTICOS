@@ -33,8 +33,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h4 Perspectiva Económica y de Mercado
-                  p.mb-0 Para ampliar la información, lo invitamos a ver el documento anexo 7. Perspectiva Económica y de Mercado, donde se describe en qué consiste la competencia perfecta e imperfecta, que es un oligopolio, un monopolio y un monopsonio, adicionalmente se muestran algunos aspectos a considerar desde el concepto de perspectiva del mercado.
+                  h4 Perspectiva económica y de mercado
+                  p.mb-0 Para ampliar la información, lo invitamos a ver el documento anexo 7. Perspectiva económica y de mercado, donde se describe en qué consiste la competencia perfecta e imperfecta, que es un oligopolio, un monopolio y un monopsonio, adicionalmente se muestran algunos aspectos a considerar desde el concepto de perspectiva del mercado.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_7_Perspectiva_economica_y_de_Mercado.pdf')" target="_blank")
                     span Descargar

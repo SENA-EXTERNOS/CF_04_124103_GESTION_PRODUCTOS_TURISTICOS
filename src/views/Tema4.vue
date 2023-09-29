@@ -43,7 +43,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
                   h4 Plaza
-                  p.mb-0 Para ampliar la información, lo invitamos a ver el documento anexo 5. Plaza en el cual se describe particularmente los canales y estrategias de distribución 
+                  p.mb-0 Para ampliar la información, lo invitamos a ver el documento anexo 5. Plaza, en el cual se describe particularmente los canales y estrategias de distribución 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_5_Plaza.pdf')" target="_blank")
                     span Descargar

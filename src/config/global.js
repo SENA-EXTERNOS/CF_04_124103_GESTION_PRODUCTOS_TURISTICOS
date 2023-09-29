@@ -122,14 +122,14 @@ export default {
   },
   complementario: [
     {
-      tema: '1.2 Protección de datos en Colombia',
+      tema: 'Protección de datos en Colombia',
       referencia:
         'Superintendencia de Industria y Comercio. (2021) <i>Protección de Datos Personales</i>. ',
       tipo: 'Artículo',
       link: 'https://www.sic.gov.co/sobre-la-proteccion-de-datos-personales',
     },
     {
-      tema: '6. Segmentación',
+      tema: 'Segmentación',
       referencia:
         'Armstrong, G. y Kotler, P. (2013). Fundamentos de marketing. Pearson Educación. Decimoprimera edición.',
       tipo: 'Libro',

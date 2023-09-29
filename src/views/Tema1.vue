@@ -34,7 +34,7 @@
             p(data-aos="fade-down").mb-0.p-2.bg2-sup En el mes se vendieron 12 excursiones.
             p(data-aos="fade-down").mb-0.p-2.bg2-sup.bg1-rad María Valentina es la asesora de viajes que más ventas realiza.
         p(data-aos="fade-down").text-end.mt-3.mb-0 Ejemplos con la relación entre dato e información
-        figcaption.mb-0 #[b Nota.] La tabla anterior ejemplifica a partir de cuatro datos de entrada cómo estos se convierten en información al darles un contexto.
+        //- figcaption.mb-0 #[b Nota.] La tabla anterior ejemplifica a partir de cuatro datos de entrada cómo estos se convierten en información al darles un contexto.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.bgcap.p-3(data-aos="flip-down")
         p(data-aos="fade-down").mb-0 #[b Nota.] La tabla anterior ejemplifica a partir de cuatro datos de entrada cómo estos se convierten en información al darles un contexto.
@@ -55,7 +55,7 @@
       .list__txt
         p.mb-0.tv #[b Tipos de información]
 
-    p(data-aos="fade-down").mb-5 Existen diferentes tipos de información, los cuales se pueden clasificar desde diferentes perspectivas, según su fuente, objeto comunicacional, criterios de programación en sistemas, entre otros. Sin embargo, la clasificación más referenciada a nivel empresarial, es la asociada con la relación que existe entre quien la produce o pública (emisor) y los potenciales usuarios requirentes (receptores), esta clasificación se muestra en la siguiente figura:
+    p(data-aos="fade-down").mb-5 Existen diferentes tipos de información, los cuales se pueden clasificar desde diferentes perspectivas, según su fuente, objeto comunicacional, criterios de programación en sistemas, entre otros. Sin embargo, la clasificación más referenciada a nivel empresarial, es la asociada con la relación que existe entre quien la produce o pública (emisor) y los potenciales usuarios (receptores), esta clasificación se muestra en la siguiente figura:
     .row.justify-content-center.mb-5
       .col-lg-9.position-relative
         .titulo-sexto.color-acento-contenido(data-aos="fade-left") 
@@ -121,7 +121,7 @@
       .col-lg-7
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img10.png', alt='')            
       .col-lg-5
-        p(data-aos="fade-down") La legislación es propia de cada país, la nación establece su marco de actuación legal para el tema; el manejo de los datos en Colombia se regula mediante el derecho de hábeas data, el cual posibilita a las personas que puedan actualizar, autorizar, conocer, y rectificar toda la información que tengan las distintas entidades y bases de datos del territorio nacional. Nació como parte importante de los artículos 15 y 20 de la Constitución Política y posteriormente, fue desarrollado a través de leyes y decretos complementarios. 
+        p(data-aos="fade-down") La legislación es propia de cada país, la nación establece su marco de actuación legal para el tema; el manejo de los datos en Colombia se regula mediante el derecho de hábeas <i>data</i>, el cual posibilita a las personas que puedan actualizar, autorizar, conocer, y rectificar toda la información que tengan las distintas entidades y bases de datos del territorio nacional. Nació como parte importante de los artículos 15 y 20 de la Constitución Política y posteriormente, fue desarrollado a través de leyes y decretos complementarios. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")           
       .col-lg-10

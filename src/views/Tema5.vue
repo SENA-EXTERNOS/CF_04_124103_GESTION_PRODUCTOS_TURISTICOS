@@ -22,7 +22,7 @@
               img.pad(src="@/assets/curso/temas/img24.svg", alt="alt")
           .crd_hover_txt--body.text-center
             h4.mb-3 Publicidad
-            p Es quizá lo más utilizado por las empresas dentro de la promoción, ya que según la estrategia, puede dar alcance a tres objetivos: 
+            p Es quizá lo más utilizado por las empresas dentro de la promoción, ya que, según la estrategia, puede dar alcance a tres objetivos: 
             p #[b 1.] Informar (dar a conocer algo) 
             p  #[b 2.] Persuadir (disuadir para que se realice una acción) 
             p.mb-0 #[b 3.]  Recordar (mantener en la mente de los clientes una marca o un producto).

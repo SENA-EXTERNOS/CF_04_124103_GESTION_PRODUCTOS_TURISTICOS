@@ -27,7 +27,7 @@
               p Es aquel agente que utiliza los productos tangibles de la empresa. 
           .row.justify-content-center.align-items-center(titulo="Usuario")
             .col-lg-10
-              p es el agente que utiliza los productos intangibles de la empresa. 
+              p Es el agente que utiliza los productos intangibles de la empresa. 
 
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-7
@@ -48,7 +48,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6.svg', alt='')             
       .col-lg-10
         p(data-aos="fade-down") La segmentación es un proceso que está ligado al entendimiento de los clientes, #[b segmentar es el proceso de dividir un mercado en grupos homogéneos (similares entre sí) con la condición de ser heterogéneos (distintos) unos de otros. ]
-        p(data-aos="fade-down") Teniendo claro, el concepto de segmentación, a continuación se listan algunas razones por lo que las empresas deberían segmentar:
+        p(data-aos="fade-down") Teniendo claro, el concepto de segmentación, a continuación, se listan algunas razones por lo que las empresas deberían segmentar:
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
@@ -103,7 +103,7 @@
       .col-lg-5
         .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
           h5.mb-2(data-aos="fade-down") Variables de la segmentación
-          p(data-aos="fade-down").mb-0 Los procesos de segmentación son realizados usualmente, en las áreas de Mercadeo de las empresas, y aun teniendo claro que realizar esta actividad no es responsabilidad de un encuestador, si es importante que las personas que trabajan con encuestas conozcan cuáles son las variables (características) que se tienen en cuenta para definir y caracterizar los segmentos de la empresa, por ello, en la siguiente figura se muestran las variables de segmentación:                     
+          p(data-aos="fade-down").mb-0 Los procesos de segmentación son realizados usualmente, en las áreas de mercadeo de las empresas, y aun teniendo claro que realizar esta actividad no es responsabilidad de un encuestador, si es importante que las personas que trabajan con encuestas conozcan cuáles son las variables (características) que se tienen en cuenta para definir y caracterizar los segmentos de la empresa, por ello, en la siguiente figura se muestran las variables de segmentación:                     
       .col-lg-7
         .titulo-sexto.color-acento-contenido(data-aos="fade-left") 
           h5 Figura 4
@@ -134,7 +134,7 @@
             p(data-aos="fade-down").mb-0.p-1.px-3.bg2-sup Personas mayores de edad entre los 30 y 35 años, solteros, de cualquier sexo y  u orientación sexual, que tengan la capacidad adquisitiva para comprar planes turísticos o tenga forma de financiarlo, que les guste viajar y conocer destinos ecoturísticos, con lugar de residencia en cualquier ciudad capital de Colombia.
             p(data-aos="fade-down").mb-0.p-1.px-3.bg2-sup.bg1-rad Extranjeros jóvenes entre los 30 y 35 años,  que tengan interés por conocer Colombia y sus destinos de playa, con  disponibilidad de medios de pago aceptados financieramente en Colombia.     
 
-        figcaption.mb-0 #[b Nota.] La tabla 3, ejemplifica la aplicación de las variables de segmentación a partir de dos segmentos (personas naturales y turistas) de una Agencia de Viajes.
+        figcaption.mb-0 #[b Nota.] La tabla 3, ejemplifica la aplicación de las variables de segmentación a partir de dos segmentos (personas naturales y turistas) de una agencia de viajes.
 
     .row.justify-content-center.align-items-center      
       .col-lg-10

@@ -97,7 +97,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="fade-left") 
       h5 Figura 3
       br
-      span.fst-italic Tipos de Estructura en las empresas 
+      span.fst-italic Tipos de estructura en las empresas 
     
     ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-right")
       template(v-slot:imagen)
